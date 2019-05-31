@@ -1,0 +1,11 @@
+body {
+    padding: 50px
+}
+
+.box {
+    display: inline-block
+    background: pink;
+    width: 200px;
+    height: 200px;
+    transform: translate(200px, 150px);
+}
